@@ -1,0 +1,2 @@
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache

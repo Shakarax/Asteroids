@@ -1,0 +1,140 @@
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\nunit.framework.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.Advertisements.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.Analytics.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.HoloLens.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.Networking.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.Purchasing.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.TestRunner.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.Timeline.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.VR.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.WebGL.Extensions.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEngine.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEngine.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.UI.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.Networking.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.TestRunner.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\nunit.framework.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.Timeline.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.HoloLens.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.VR.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\obj\Debug\Assembly-CSharp.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\New Unity Project\obj\Debug\Assembly-CSharp.pdb
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\obj\Debug\Assembly-CSharp.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\nunit.framework.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.Advertisements.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.Analytics.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.HoloLens.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.Networking.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.Purchasing.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.TestRunner.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.Timeline.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.VR.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.WebGL.Extensions.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEngine.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEngine.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.UI.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.Networking.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.TestRunner.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\nunit.framework.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.Timeline.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.HoloLens.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.VR.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\klangendoen\Documents\GitHub\SpaceShooter\Space Shooter\obj\Debug\Assembly-CSharp.pdb
